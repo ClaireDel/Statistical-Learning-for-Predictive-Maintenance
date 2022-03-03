@@ -1,5 +1,10 @@
 # Statistical-Learning-for-Predictive-Maintenance
 
+
+<p align="center">
+  <img src="https://github.com/ClaireDel/Statistical-Learning-for-Predictive-Maintenance/blob/main/Picture1.png" width=400 height=auto>
+</p>
+
 In many industries, failure prediction is a consistent topic in predictive maintenance. Airlines are 
 particularly interested in predicting equipment failures in advance to enhance the maintenance operations 
 and planning of the aircraft engines. Indeed, by knowing which equipment needs maintenance, repair work 
